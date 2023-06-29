@@ -9,7 +9,7 @@ class TeamV2 extends Component {
         let publicUrl = process.env.PUBLIC_URL+'/'
         let imagealt = 'image'
 
-    return <div className="ltn__team-area pt-110--- pb-90">
+    return <div className="ltn__team-area pt-110--- pb-90 help">
 				<div className="container">
 					<div className='row'>
 					<div className='col-md-6 col-md-6'>
