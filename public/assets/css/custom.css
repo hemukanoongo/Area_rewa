@@ -1,0 +1,11 @@
+.awards-img-wrap
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.awards-img-wrap img
+{
+    width: 20px;
+}
+
