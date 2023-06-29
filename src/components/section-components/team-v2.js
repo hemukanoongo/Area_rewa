@@ -12,7 +12,7 @@ class TeamV2 extends Component {
     return <div className="ltn__team-area pt-110--- pb-90">
 				<div className="container">
 					<div className='row'>
-					<div className='col-md-6'>
+					<div className='col-md-6 col-md-6'>
 						<h2 className='mb-0 text-center mt-5'>Ankur Bhaseen</h2>
 						<span className='mb-40 d-block text-center'>Director/Licensee</span>
 						<p className='mb-4'>Ankur Bhaseen is not your typical real estate agent—he's a dynamic leader who's passionate about helping his clients achieve their dreams. </p>
